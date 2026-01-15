@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tarunnagar-90b751271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunnagar-90b751271" height="30" width="40" /></a>
-  <a href="https://instgram.com/in/tarun_nagar._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunnagar-90b751271" height="30" width="40" /></a>
+  <a href="https://instgram.com/in/tarun_nagar._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-in-alt.svg" alt="tarunnagar-90b751271" height="30" width="40" /></a>
 
 </p>
 
