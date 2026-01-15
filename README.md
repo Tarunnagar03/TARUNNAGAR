@@ -1,19 +1,17 @@
-![logo](https://github.com/Tarunnagar03/Tarunnagar03/blob/main/development-development-technology-businessman-development-management-technology_771745-790.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Tarun Nagar</h1>
-<h3 align="center">MCA Graduate | Full-Stack Web Developer | ASP.NET Core & Java Enthusiast</h3>
+<h3 align="center">MCA Graduate | Web Developer | ASP.NET Core & Java Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunnagar03&label=Profile%20views&color=0e75b6&style=flat" alt="tarunnagar03" /> </p>
 
-- 🔭 I'm currently working on **ASP.NET Core MVC, Data Analysis Projects**
+- 🔭 I'm currently working on **ASP.NET Core MVC**
 
 - 🌱 I'm currently learning **React, JavaScript, Advanced Web Development**
 
-- 👯 I'm looking to collaborate on **Web Development, Full-Stack Projects**
-
-- 💼 Seeking opportunities in **Software Development & Data Analytics**
+- 👯 I'm looking for job opportunities on **front-end Development**
 
 - 📫 How to reach me **nagart16@gmail.com**
 
@@ -49,15 +47,6 @@
 
 ---
 
-<h3 align="left">🎓 Certifications:</h3>
-
-- Microsoft Azure AI Essentials Professional Certificate
-- Career Essentials in Data Analysis by Microsoft & LinkedIn
-- Career Essentials in Generative AI by Microsoft & LinkedIn
-- Career Essentials in Cybersecurity by Microsoft & LinkedIn
-
----
-
 <h3 align="left">💼 Featured Projects:</h3>
 
 **Expense Tracker Application** | ASP.NET Core MVC
@@ -71,5 +60,12 @@
 - Cross-browser compatible design
 
 ---
+<h3 align="left">🎓 Certifications:</h3>
+
+- Microsoft Azure AI Essentials Professional Certificate
+- Career Essentials in Data Analysis by Microsoft & LinkedIn
+- Career Essentials in Generative AI by Microsoft & LinkedIn
+- Career Essentials in Cybersecurity by Microsoft & LinkedIn
+
 
 ⭐️ From [Tarunnagar03](https://github.com/Tarunnagar03)
