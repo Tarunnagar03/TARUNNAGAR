@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunnagar03&label=Profile%20views&color=0e75b6&style=flat" alt="tarunnagar03" /> </p>
 
-- 🔭 I'm currently working on **ASP.NET Core MVC**
+- 🔭 I'm currently working on **My Portfolio**
 
-- 🌱 I'm currently learning **React, JavaScript, Advanced Web Development**
+- 🌱 I'm currently learning **ReactJS ,Java and Cloud Computing**
 
 - 👯 I'm looking for job opportunities on **front-end Development**
 
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tarunnagar-90b751271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunnagar-90b751271" height="30" width="40" /></a>
-  <a href="https://instgram.com/in/tarun_nagar._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarun_nagar._" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tarunnagar-90b751271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer_pani" height="30" width="40" /></a>
+  <a href="https://instgram.com/in/tarun_nagar._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_pani" height="30" width="40" /></a>
 
 </p>
 
